@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm a Full-stack developer.
+I'm a Full-stack developer still in creation.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Sarkadi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Sarkadi&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+These are the technologies I'm familiar with:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
