@@ -32,7 +32,7 @@ I'm a junior Full-stack developer in making. I specialise in Java (Spring) and h
 
 <h3 align="left">You can also find me on:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/gergely-sarkadi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="" width="40" /></a>
+<a href="www.linkedin.com/in/gergely-sarkadi" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="" width="40" /></a>
 </p>
 
 <!--
