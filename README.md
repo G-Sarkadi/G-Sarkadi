@@ -6,8 +6,6 @@
 
 I'm a junior Full-stack developer in making. I specialise in Java (Spring) and have experience working with Python (Flask), JavaScript (React) and SQL (PostgreSQL).
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodecoolGlobal&repo=gladiator-java-G-Sarkadi)](https://github.com/CodecoolGlobal/gladiator-java-G-Sarkadi)
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Sarkadi&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
@@ -37,6 +35,15 @@ I'm a junior Full-stack developer in making. I specialise in Java (Spring) and h
 <p align="left">
 <a href="https://www.linkedin.com/in/gergely-sarkadi/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="" width="40" /></a>
 </p>
+
+
+<h3 align="left">Some of the projects I contributed to::</h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=G-Sarkadi&repo=APOD-gallery)](https://github.com/G-Sarkadi/APOD-gallery)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodecoolGlobal&repo=gladiator-java-G-Sarkadi)](https://github.com/CodecoolGlobal/gladiator-java-G-Sarkadi)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodecoolGlobal&repo=freestyle-javascript-game-javascript-NagyGabor87)](https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-NagyGabor87)
 
 <!--
 **G-Sarkadi/G-Sarkadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
