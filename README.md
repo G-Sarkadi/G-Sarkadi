@@ -11,7 +11,8 @@ I'm a junior Full-stack developer in making. I specialise in Java (Spring) and h
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Sarkadi&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-These are the technologies I'm familiar with:
+
+<h3 align="left">These are the technologies I'm familiar with:</h3>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -28,6 +29,12 @@ These are the technologies I'm familiar with:
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+<h3 align="left">You can also find me on:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/gergely-sarkadi
+" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="" width="40" /></a>
+</p>
 
 <!--
 **G-Sarkadi/G-Sarkadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
