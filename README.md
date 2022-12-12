@@ -6,7 +6,7 @@
 
 I'm a junior Full-stack developer in making. I specialise in Java (Spring) and have experience working with Python (Flask), JavaScript (React) and SQL (PostgreSQL).
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodecoolGlobal&repo=gladiator-java-G-Sarkadi)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/CodecoolGlobal/gladiator-java-G-Sarkadi))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodecoolGlobal&repo=gladiator-java-G-Sarkadi)](https://github.com/CodecoolGlobal/gladiator-java-G-Sarkadi)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Sarkadi&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
