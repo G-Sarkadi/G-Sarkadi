@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I'm a Full-stack developer still in creation.
+I'm a junior Full-stack developer in making. I specialise in Java (Spring) and have experience working with Python (Flask), Javascript (React) and SQL (PostgreSQL).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Sarkadi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Sarkadi&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Sarkadi&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 These are the technologies I'm familiar with:
 
