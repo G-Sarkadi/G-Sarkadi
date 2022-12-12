@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</div>
+
 ### Hi there 👋
 
 I'm a junior Full-stack developer in making. I specialise in Java (Spring) and have experience working with Python (Flask), JavaScript (React) and SQL (PostgreSQL).
