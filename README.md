@@ -39,11 +39,11 @@ I'm a junior Full-stack developer in making. I specialise in Java (Spring) and h
 
 <h3 align="left">Some of the projects I contributed to:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=G-Sarkadi&repo=APOD-gallery)](https://github.com/G-Sarkadi/APOD-gallery)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=G-Sarkadi&repo=APOD-gallery&theme=dark)](https://github.com/G-Sarkadi/APOD-gallery)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodecoolGlobal&repo=gladiator-java-G-Sarkadi)](https://github.com/CodecoolGlobal/gladiator-java-G-Sarkadi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodecoolGlobal&repo=gladiator-java-G-Sarkadi&theme=dark)](https://github.com/CodecoolGlobal/gladiator-java-G-Sarkadi)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodecoolGlobal&repo=freestyle-javascript-game-javascript-NagyGabor87)](https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-NagyGabor87)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodecoolGlobal&repo=freestyle-javascript-game-javascript-NagyGabor87&theme=dark)](https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-NagyGabor87)
 
 <!--
 **G-Sarkadi/G-Sarkadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
