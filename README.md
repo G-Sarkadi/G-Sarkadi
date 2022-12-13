@@ -10,7 +10,11 @@ I'm a junior Full-stack developer in making. I specialise in Java (Spring) and h
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Sarkadi&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Sarkadi&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+  <a href="https://www.codewars.com/users/SGreg85">
+    <img src="https://www.codewars.com/users/SGreg85/badges/large"/>
+  </a>
+</div>
 
 
 <h3 align="left">These are the technologies I'm familiar with:</h3>
