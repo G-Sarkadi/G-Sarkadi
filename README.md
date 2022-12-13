@@ -8,9 +8,6 @@ I'm a junior Full-stack developer in making. I specialise in Java (Spring) and h
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Sarkadi&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Sarkadi&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-[![Codewars badge](https://www.codewars.com/users/SGreg85/badges/large)](https://www.codewars.com/users/SGreg85)
-
-
 ### These are the technologies I'm familiar with:
 
 <div>
@@ -32,7 +29,9 @@ I'm a junior Full-stack developer in making. I specialise in Java (Spring) and h
 ### You can also find me on:
 <p align="left">
 <a href="https://www.linkedin.com/in/gergely-sarkadi/" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" height="40" /></a>
-</p>
+</p>  
+
+[![Codewars badge](https://www.codewars.com/users/SGreg85/badges/large)](https://www.codewars.com/users/SGreg85)
 
 ### Some of the projects I've worked on:
 
