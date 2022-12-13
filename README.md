@@ -37,7 +37,7 @@ I'm a junior Full-stack developer in making. I specialise in Java (Spring) and h
 </p>
 
 
-<h3 align="left">Some of the projects I contributed to:</h3>
+<h3 align="left">Some of the projects I've worked on:</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=G-Sarkadi&repo=APOD-gallery&theme=dark)](https://github.com/G-Sarkadi/APOD-gallery)
 
