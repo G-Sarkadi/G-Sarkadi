@@ -6,8 +6,8 @@
 
 I'm a junior Full-stack developer in making. I specialise in Java (Spring) and have experience working with Python (Flask), JavaScript (React) and SQL (PostgreSQL).
 
-[![Anurag's GitHub stats](https://readme-stats.clckblog.space/api?username=G-Sarkadi&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=G-Sarkadi&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats-weld-three-57.vercel.app/api?username=G-Sarkadi&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats-weld-three-57.vercel.app/api/top-langs/?username=G-Sarkadi&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 ### These are the technologies I'm familiar with:
 
 <div>
@@ -36,8 +36,8 @@ I'm a junior Full-stack developer in making. I specialise in Java (Spring) and h
 
 ### Some of the projects I've worked on:
 
-[![Readme Card](https://readme-stats.clckblog.space/api/pin/?username=G-Sarkadi&repo=APOD-gallery&theme=dark)](https://github.com/G-Sarkadi/APOD-gallery)
+[![Readme Card](https://github-readme-stats-weld-three-57.vercel.app/api/pin/?username=G-Sarkadi&repo=APOD-gallery&theme=dark)](https://github.com/G-Sarkadi/APOD-gallery)
 
-[![Readme Card](https://readme-stats.clckblog.space/api/pin/?username=CodecoolGlobal&repo=gladiator-java-G-Sarkadi&theme=dark)](https://github.com/CodecoolGlobal/gladiator-java-G-Sarkadi)
+[![Readme Card](https://github-readme-stats-weld-three-57.vercel.app/api/pin/?username=CodecoolGlobal&repo=gladiator-java-G-Sarkadi&theme=dark)](https://github.com/CodecoolGlobal/gladiator-java-G-Sarkadi)
 
-[![Readme Card](https://readme-stats.clckblog.space/api/pin/?username=CodecoolGlobal&repo=freestyle-javascript-game-javascript-NagyGabor87&theme=dark)](https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-NagyGabor87)
+[![Readme Card](https://github-readme-stats-weld-three-57.vercel.app/api/pin/?username=CodecoolGlobal&repo=freestyle-javascript-game-javascript-NagyGabor87&theme=dark)](https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-NagyGabor87)
