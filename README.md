@@ -38,6 +38,8 @@ I'm a junior Full-stack developer in making. I specialise in Java (Spring) and h
 
 [![Readme Card](https://github-readme-stats-weld-three-57.vercel.app/api/pin/?username=G-Sarkadi&repo=APOD-gallery&theme=dark)](https://github.com/G-Sarkadi/APOD-gallery)
 
+[![Readme Card](https://github-readme-stats-weld-three-57.vercel.app/api/pin/?username=CodecoolGlobal&repo=el-proyecte-grande-sprint-1-java-zsofi82&theme=dark)](https://github.com/CodecoolGlobal/el-proyecte-grande-sprint-1-java-zsofi82)
+
 [![Readme Card](https://github-readme-stats-weld-three-57.vercel.app/api/pin/?username=CodecoolGlobal&repo=gladiator-java-G-Sarkadi&theme=dark)](https://github.com/CodecoolGlobal/gladiator-java-G-Sarkadi)
 
 [![Readme Card](https://github-readme-stats-weld-three-57.vercel.app/api/pin/?username=CodecoolGlobal&repo=freestyle-javascript-game-javascript-NagyGabor87&theme=dark)](https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-NagyGabor87)
