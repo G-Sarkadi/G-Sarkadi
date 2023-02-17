@@ -25,7 +25,7 @@ I'm a junior Full-stack developer in making. I specialise in Java (Spring) and h
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" title="BASH" alt="BASH" height="40"/>&nbsp;
+  <img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" title="BASH" alt="BASH" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" title="Docker" alt="Docker" height="40"/>&nbsp;
 </div>
