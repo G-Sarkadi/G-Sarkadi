@@ -38,6 +38,7 @@ I'm a junior Full-stack developer in making. I specialise in Java (Spring) and h
 ### You can also find me on:
 <p align="left">
 <a href="https://www.linkedin.com/in/gergely-sarkadi/" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" height="40" /></a>
+<a href="https://gitlab.com/G-Sarkadi" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" /></a>
 </p>  
 
 [![Codewars badge](https://www.codewars.com/users/SGreg85/badges/large)](https://www.codewars.com/users/SGreg85)
