@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I'm a junior Full-stack developer in making. I specialise in Java (Spring) and have experience working with Python (Flask), JavaScript (React) and SQL (PostgreSQL).
+I'm a junior Full-stack developer in making. I specialise in DevOps, Java (Spring) and have experience working with Python (Flask), JavaScript (React) and SQL (PostgreSQL).
 
 [![Anurag's GitHub stats](https://github-readme-stats-pi-bay.vercel.app/api?username=G-Sarkadi&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats-pi-bay.vercel.app/api/top-langs/?username=G-Sarkadi&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
