@@ -6,8 +6,8 @@
 
 I'm a junior Full-stack developer in making. I specialise in DevOps, Java (Spring) and have experience working with Python (Flask), JavaScript (React) and SQL (PostgreSQL).
 
-[![Anurag's GitHub stats](https://github-readme-stats-pi-bay.vercel.app/api?username=G-Sarkadi&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats-pi-bay.vercel.app/api/top-langs/?username=G-Sarkadi&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats-six-mu-91.vercel.app/api?username=G-Sarkadi&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats-six-mu-91.vercel.app/api/top-langs/?username=G-Sarkadi&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 ### These are the technologies I'm familiar with:
 
 <div>
@@ -46,10 +46,10 @@ I'm a junior Full-stack developer in making. I specialise in DevOps, Java (Sprin
 
 ### Some of the projects I've worked on:
 
-[![Readme Card](https://github-readme-stats-pi-bay.vercel.app/api/pin/?username=G-Sarkadi&repo=APOD-gallery&theme=dark)](https://github.com/G-Sarkadi/APOD-gallery)
+[![Readme Card](https://github-readme-stats-six-mu-91.vercel.app/api/pin/?username=G-Sarkadi&repo=APOD-gallery&theme=dark)](https://github.com/G-Sarkadi/APOD-gallery)
 
-[![Readme Card](https://github-readme-stats-pi-bay.vercel.app/api/pin/?username=CodecoolGlobal&repo=el-proyecte-grande-sprint-1-java-zsofi82&theme=dark)](https://github.com/CodecoolGlobal/el-proyecte-grande-sprint-1-java-zsofi82)
+[![Readme Card](https://github-readme-stats-six-mu-91.vercel.app/api/pin/?username=CodecoolGlobal&repo=el-proyecte-grande-sprint-1-java-zsofi82&theme=dark)](https://github.com/CodecoolGlobal/el-proyecte-grande-sprint-1-java-zsofi82)
 
-[![Readme Card](https://github-readme-stats-pi-bay.vercel.app/api/pin/?username=CodecoolGlobal&repo=gladiator-java-G-Sarkadi&theme=dark)](https://github.com/CodecoolGlobal/gladiator-java-G-Sarkadi)
+[![Readme Card](https://github-readme-stats-six-mu-91.vercel.app/api/pin/?username=CodecoolGlobal&repo=gladiator-java-G-Sarkadi&theme=dark)](https://github.com/CodecoolGlobal/gladiator-java-G-Sarkadi)
 
-[![Readme Card](https://github-readme-stats-pi-bay.vercel.app/api/pin/?username=CodecoolGlobal&repo=freestyle-javascript-game-javascript-NagyGabor87&theme=dark)](https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-NagyGabor87)
+[![Readme Card](https://github-readme-stats-six-mu-91.vercel.app/api/pin/?username=CodecoolGlobal&repo=freestyle-javascript-game-javascript-NagyGabor87&theme=dark)](https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-NagyGabor87)
