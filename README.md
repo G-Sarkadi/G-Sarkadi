@@ -53,4 +53,4 @@ I'm a junior Full-stack developer in making. I specialise in DevOps, Java (Sprin
 
 [![Readme Card](https://github-readme-stats-weld-phi.vercel.app/api/pin/?username=CodecoolGlobal&repo=gladiator-java-G-Sarkadi&theme=dark)](https://github.com/CodecoolGlobal/gladiator-java-G-Sarkadi)
 
-[![Readme Card](https://github-readme-stats-weld-phi.vercel.app/api/pin/?username=CodecoolGlobal&repo=freestyle-javascript-game-javascript-NagyGabor87&theme=dark)](https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-NagyGabor87)
+[![Readme Card](https://github-readme-stats-weld-phi.vercel.app/api/pin/?username=G-Sarkadi&repo=django-infra&theme=dark)](https://github.com/G-Sarkadi/django-infra)
